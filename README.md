@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 ### Olá eu sou Rud Junior ✌🏻
 
