@@ -11,7 +11,7 @@
 ![Rud1020 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rud1020&show_icons=true&theme=tokyonight)
 
 ### Tecnologias do meu dia dia.
-
+<br>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )
