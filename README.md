@@ -4,9 +4,10 @@
 )](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rud-junior-a0078424a/)
+[![Linkedin](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+)](https://www.youtube.com/@Rud1020/featured)
 
 
-![Rud1020 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rud1020&show_icons=true&theme=tokyonight)
 <br>
 <br>
 
