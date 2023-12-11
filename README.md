@@ -7,6 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 )](https://www.youtube.com/@Rud1020/featured)
 
+![Rud GitHub stats](https://github-readme-stats.vercel.app/api?username=Rud1020&show_icons=true&theme=tokyonight)
 
 <br>
 <br>
