@@ -25,9 +25,4 @@
 <br>
 <br>
 
-##
-
-### Mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rud1020&layout=donut-vertical)](https://github.com/Rud1020/github-readme-stats)
-
 
